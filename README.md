@@ -1,5 +1,5 @@
 ### Hey there 🐱‍👤🌊
-[![LeetCode Stats](https://leetcard.jacoblin.cool/elnosabe322?theme=forest&font=IBM%20Plex%20Sans&ext=activity)](https://leetcode.com/ElNoSabe322/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/elnosabe322?theme=dark&font=IBM%20Plex%20Sans&ext=""&hide=ranking&border=3&radius=15)](https://leetcode.com/ElNoSabe322/)
 <!--
 **ElNoSabe322/ElNoSabe322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
